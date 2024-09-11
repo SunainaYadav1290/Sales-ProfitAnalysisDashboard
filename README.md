@@ -6,7 +6,10 @@ This project aims to analyze the profitability and sales performance of various 
 ## Insights Found:
 ### Profit by Product: 
  Identified  Paseo as the most profitable product. 
-###Profit by Segment: Certain customer segments, such as Government, contribute significantly to profit, while others, like Enterprise,Small Business have a lower profit contribution.
-### Total Sales & Total Profit: There is a direct correlation between increased sales and higher profits, though some periods show a mismatch due to rising costs or discounting strategies.
-### COGS by Year: A steady increase in COGS was observed, impacting overall profitability, especially in year2014 where sales growth did not outpace cost increases.
+###Profit by Segment:
+Certain customer segments, such as Government, contribute significantly to profit, while others, like Enterprise,Small Business have a lower profit contribution.
+### Total Sales & Total Profit: 
+There is a direct correlation between increased sales and higher profits, though some periods show a mismatch due to rising costs or discounting strategies.
+### COGS by Year:
+A steady increase in COGS was observed, impacting overall profitability, especially in year2014 where sales growth did not outpace cost increases.
 These insights help in understanding which areas to focus on for maximizing profit, managing costs, and improving product performance across segments.
